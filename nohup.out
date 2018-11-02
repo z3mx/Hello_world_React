@@ -1,0 +1,2 @@
+Command "daemon" is deprecated, and will be removed in Docker 1.16. Please run `dockerd` directly.
+exec: "dockerd": executable file not found in $PATH
